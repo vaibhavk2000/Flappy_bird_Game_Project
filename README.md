@@ -2,6 +2,8 @@
 
 A rebuilt, maintainable Flappy Bird game in Python + Pygame.
 
+![Flappy Bird Game Screenshot](flappybirdgame.png)
+
 ## What's improved
 
 - Fixed the original working-directory/path problems by using `pathlib` and paths relative to the project.
